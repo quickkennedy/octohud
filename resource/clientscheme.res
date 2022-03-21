@@ -5815,8 +5815,6 @@ Scheme
 		"2" "resource/tfd.ttf"
 		"3"
 		{
-			"font" "resource/TF2.ttf"
-			"name" "RuneScape Bold 12"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
