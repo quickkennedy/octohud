@@ -1,3 +1,4 @@
+#base	"hitmarkerbase.res"
 #base	"crosshairbase.res"
 #base	"../customizations/transparent viewmodels.res"
 
