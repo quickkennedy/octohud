@@ -1,3 +1,4 @@
+#base	"crosshairbase.res"
 #base	"../customizations/transparent viewmodels.res"
 
 "Resource/HudLayout.res"

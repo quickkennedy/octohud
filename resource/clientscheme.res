@@ -1,4 +1,4 @@
-#base "../extras/crosshairs.res"
+#base "scheme/crosshairs.res"
 
 //
 // TRACKER SCHEME RESOURCE FILE
