@@ -5,7 +5,7 @@
 		"visible"			"0"
 		//set to 1 to see the crosshair
 
-		"labelText"			"<"
+		"labelText"			"A"
 		//see crosshairs.png for a guide on this
 
 		"font"				"Size:18"
