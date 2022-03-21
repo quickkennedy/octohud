@@ -2051,7 +2051,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Arial Black"
+				"name"			"RuneScape Plain 12"
 				"tall"			"8"
 				"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
