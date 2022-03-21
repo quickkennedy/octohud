@@ -10,7 +10,7 @@
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"HudFontDamage"
-		"delta_item_font_big"	"HudFontBig"
+		"delta_item_font_big"	"HudFontDamageBig"
 	}
 	"DamageAccountValue"
 	{

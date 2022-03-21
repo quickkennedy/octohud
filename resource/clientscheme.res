@@ -908,6 +908,19 @@ Scheme
 				"outline"	"1"
 			}
 		}
+		"HudFontDamageBig"
+		{
+			"1"
+			{
+				"name"		"RuneScape Bold 12"
+				"tall"		"36"
+				"tall_hidef"	"48"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
 		"HudFontMediumSecondary"
 		{
 			"1"
