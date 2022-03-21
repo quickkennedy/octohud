@@ -1,3 +1,5 @@
+#base	"../customizations/transparent viewmodels.res"
+
 "Resource/HudLayout.res"
 {
 	"CustomCrosshair"
@@ -15,20 +17,6 @@
 		"font"				"Size:18"
 		"textAlignment"		"center"
 		"fgcolor"			"Crosshair"
-	}
-	"TransparentViewmodel"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TransparentViewmodel"
-		"xpos"				"0"
-		"ypos"				"0"
-		"zpos"				"-100"
-		"wide"				"f0"
-		"tall"				"480"
-		"visible"			"0"
-		"enabled"			"0"
-		"image"				"replay/thumbnails/transparent"
-		"scaleImage"		"1"
 	}
 	"HudPlayerStatus"
 	{
